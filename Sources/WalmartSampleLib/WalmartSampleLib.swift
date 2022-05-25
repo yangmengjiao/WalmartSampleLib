@@ -3,4 +3,8 @@ public struct WalmartSampleLib {
 
     public init() {
     }
+    
+    public func testFunc() {
+        print(text)
+    }
 }
